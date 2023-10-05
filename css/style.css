@@ -658,7 +658,7 @@ h1{
     background-color: black;
     width: 24%;
     height: 27.5%;
-    margin-top: -205px;
+    margin-top: -13.5%;
     opacity: 0;
     visibility: hidden;
     transition: 0.5s;
@@ -705,7 +705,7 @@ h1{
 }
 
 .discount button {
-    margin: 208px 0 0 150px;
+    margin: 68.5% 0 0 52%;
     width: 80px;
     height: 25px;
     font-weight: bold;
